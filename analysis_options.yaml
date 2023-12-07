@@ -1,0 +1,18 @@
+
+include: package:flutter_lints/flutter.yaml
+
+
+analyzer:
+  errors:
+    prefer_single_quotes: warning
+    avoid_print: error
+    prefer_relative_imports : error
+    unused_import : error
+
+linter:
+  rules:
+    avoid_print: true
+    prefer_single_quotes: true
+    prefer_relative_imports : true
+    require_trailing_commas : true
+    unused_import : false
