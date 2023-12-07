@@ -28,7 +28,7 @@ https://www.appsloveworld.com/sample-rest-api-url-for-testing-withauthenticatio
 ## Feature ✅
 
 - [x] BLoC State Management
-- [x] **Clean Architecture with TDD**
+- [x] **Clean Architecture**
 - [x] Login 
 
 
